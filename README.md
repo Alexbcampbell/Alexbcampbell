@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexbcampbell
 - 👀 I’m interested in Full Stack Software Engineering
-- 🌱 I’m currently learning Firebase, SQL, C#/.NET and continuing practice with JavaScript, React, Express and Node.js
+- 🌱 I’m currently learning Python, SQL, C#/.NET and continuing practice with JavaScript, React, Express and Node.js
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me: https://www.linkedin.com/in/alexb-campbell/
 
