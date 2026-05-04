@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexbcampbell
-- 👀 I’m interested in Full Stack Software Engineering
-- 🌱 I’m currently learning SQL, C#/.NET and continuing practice with JavaScript, React, Express and Node.js
+- 👀 I’m interested in Technical Support Engineering
+- 🌱 I’m currently working with and continuously learning SQL, C#/.NET, JavaScript, React, Express and Node.js
 - 💞️ I’m looking to collaborate on anything!!
 - 📫 How to reach me: https://www.linkedin.com/in/alexb-campbell/
 
